@@ -1,0 +1,54 @@
+Seed 1420 - Total time: 88
+Seed 1421 - Total time: 201
+Seed 1422 - Total time: 201
+Seed 1423 - Total time: 201
+Seed 1424 - Total time: 107
+Seed 1425 - Total time: 44
+Seed 1426 - Total time: 201
+Seed 1427 - Total time: 91
+Seed 1428 - Total time: 201
+Seed 1429 - Total time: 201
+Seed 1430 - Total time: 201
+Seed 1431 - Total time: 201
+Seed 1432 - Total time: 201
+Seed 1433 - Total time: 201
+Seed 1434 - Total time: 201
+Seed 1435 - Total time: 79
+Seed 1436 - Total time: 42
+Seed 1437 - Total time: 80
+Seed 1438 - Total time: 201
+Seed 1439 - Total time: 201
+Seed 1440 - Total time: 201
+Seed 1441 - Total time: 201
+Seed 1442 - Total time: 201
+Seed 1443 - Total time: 201
+Seed 1444 - Total time: 201
+Seed 1445 - Total time: 58
+Seed 1446 - Total time: 45
+Seed 1447 - Total time: 201
+Seed 1448 - Total time: 78
+Seed 1449 - Total time: 67
+Seed 1450 - Total time: 201
+Seed 1451 - Total time: 70
+Seed 1452 - Total time: 201
+Seed 1453 - Total time: 201
+Seed 1454 - Total time: 201
+Seed 1455 - Total time: 48
+Seed 1456 - Total time: 201
+Seed 1457 - Total time: 201
+Seed 1458 - Total time: 62
+Seed 1459 - Total time: 201
+Seed 1460 - Total time: 201
+Seed 1461 - Total time: 34
+Seed 1462 - Total time: 58
+Seed 1463 - Total time: 63
+Seed 1464 - Total time: 201
+Seed 1465 - Total time: 79
+Seed 1466 - Total time: 201
+Seed 1467 - Total time: 201
+Seed 1468 - Total time: 65
+Seed 1469 - Total time: 61
+
+===================================
+Average total time: 146.98
+===================================

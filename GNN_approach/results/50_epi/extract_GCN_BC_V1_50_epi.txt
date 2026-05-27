@@ -1,0 +1,54 @@
+Seed 0 - Total time: 80
+Seed 1 - Total time: 29
+Seed 2 - Total time: 47
+Seed 3 - Total time: 66
+Seed 4 - Total time: 75
+Seed 5 - Total time: 71
+Seed 6 - Total time: 117
+Seed 7 - Total time: 69
+Seed 8 - Total time: 76
+Seed 9 - Total time: 49
+Seed 10 - Total time: 106
+Seed 11 - Total time: 68
+Seed 12 - Total time: 98
+Seed 13 - Total time: 71
+Seed 14 - Total time: 64
+Seed 15 - Total time: 61
+Seed 16 - Total time: 75
+Seed 17 - Total time: 89
+Seed 18 - Total time: 63
+Seed 19 - Total time: 64
+Seed 20 - Total time: 57
+Seed 21 - Total time: 83
+Seed 22 - Total time: 66
+Seed 23 - Total time: 55
+Seed 24 - Total time: 67
+Seed 25 - Total time: 43
+Seed 26 - Total time: 59
+Seed 27 - Total time: 58
+Seed 28 - Total time: 44
+Seed 29 - Total time: 81
+Seed 30 - Total time: 58
+Seed 31 - Total time: 103
+Seed 32 - Total time: 69
+Seed 33 - Total time: 92
+Seed 34 - Total time: 41
+Seed 35 - Total time: 40
+Seed 36 - Total time: 56
+Seed 37 - Total time: 59
+Seed 38 - Total time: 98
+Seed 39 - Total time: 78
+Seed 40 - Total time: 43
+Seed 41 - Total time: 101
+Seed 42 - Total time: 28
+Seed 43 - Total time: 51
+Seed 44 - Total time: 54
+Seed 45 - Total time: 79
+Seed 46 - Total time: 83
+Seed 47 - Total time: 54
+Seed 48 - Total time: 51
+Seed 49 - Total time: 69
+
+===================================
+Average total time: 67.16
+===================================
